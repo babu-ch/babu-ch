@@ -1,4 +1,3 @@
-hello!
 
 ### contributions
 
@@ -14,7 +13,7 @@ hello!
 
 #### Tooling / Compiler
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/oxc-project/oxc?authorFilter=babu-ch\&style=flat\&label=oxc)](https://github.com/oxc-project/oxc/commits?author=babu-ch)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/oxc-project/oxc?authorFilter=babu-ch\&style=flat\&color=00F7F1\&logo=oxc\&logoColor=000000\&label=oxc)](https://github.com/oxc-project/oxc/commits?author=babu-ch)
 
 #### Others
 
