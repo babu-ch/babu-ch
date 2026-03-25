@@ -2,6 +2,7 @@
 
 #### Vue ecosystem
 
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/vuejs/core?authorFilter=babu-ch\&style=flat\&color=f8f9fa\&logo=vue.js\&logoColor=42b883\&label=vuejs%2Fcore)](https://github.com/vuejs/core/commits?author=babu-ch)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/vuejs/docs?authorFilter=babu-ch\&style=flat\&color=f8f9fa\&logo=vue.js\&logoColor=42b883\&label=vuejs%2Fdocs)](https://github.com/vuejs/docs/commits?author=babu-ch)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/vuejs/pinia?authorFilter=babu-ch\&style=flat\&color=f8f9fa\&logo=pinia\&logoColor=ffd859\&label=vuejs%2Fpinia)](https://github.com/vuejs/pinia/commits?author=babu-ch)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/vuejs/router?authorFilter=babu-ch\&style=flat\&color=f8f9fa\&logo=vue.js\&logoColor=42b883\&label=vuejs%2Frouter)](https://github.com/vuejs/router/commits?author=babu-ch)
